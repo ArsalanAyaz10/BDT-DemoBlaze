@@ -1,0 +1,8 @@
+{
+  "weburl": "https://demoblaze.com/",
+  "signupEndpoint": "https://api.demoblaze.com/signup",
+  "signupSuccessMessage": "Sign up successful.",
+  "usernamePrefix": "testuser_",
+  "passwordPrefix": "pass_",
+  "dashboardWelcomeSelector": "#nameofuser"
+}
