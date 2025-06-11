@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqaProjectBDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd663b886d9a6dbcc0485b6e5e5b89d9766705d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqaProjectBDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqaProjectBDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

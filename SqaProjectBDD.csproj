@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="TestData\signupdata.json" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ReqnrollObsoleteCodeBehindFiles Remove="Features\Demo Blaze\addtocart.feature.cs" />
     <PackageReference Include="Allure.NUnit" Version="2.12.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
@@ -26,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Page Include="TestData\signupdata.json" />
+    <ReqnrollFeatureFiles Include="TestData\testData.json" />
   </ItemGroup>
 
 </Project>

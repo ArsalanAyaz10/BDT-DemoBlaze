@@ -509,3 +509,4 @@ C:\Users\hp\source\repos\SqaProjectBDD\obj\Debug\net8.0\refint\SqaProjectBDD.dll
 C:\Users\hp\source\repos\SqaProjectBDD\obj\Debug\net8.0\SqaProjectBDD.pdb
 C:\Users\hp\source\repos\SqaProjectBDD\obj\Debug\net8.0\SqaProjectBDD.genruntimeconfig.cache
 C:\Users\hp\source\repos\SqaProjectBDD\obj\Debug\net8.0\ref\SqaProjectBDD.dll
+C:\Users\hp\source\repos\SqaProjectBDD\obj\Debug\net8.0\SqaProjectBDD.sourcelink.json

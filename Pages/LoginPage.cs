@@ -17,8 +17,8 @@ namespace SqaProjectBDD.Pages
         private string LoginButtonSelector => "#login2";
         private string UsernameInputSelector => "#loginusername";
         private string PasswordInputSelector => "#loginpassword";
-        private string ModalSelector => "#logInModal";
-        private string SubmitLoginButtonSelector => "button:has-text('Log in')";
+    //    private string ModalSelector => "#logInModal";
+    //  private string SubmitLoginButtonSelector => "button:has-text('Log in')";
         private string WelcomeUserSelector => "#nameofuser";
 
         public async Task NavigateToHomePageAsync(string url)

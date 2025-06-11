@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|c:\\users\\hp\\source\\repos\\sqaprojectbdd\\stepdefinitions\\invalidcheckoutsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|solutionrelative:stepdefinitions\\invalidcheckoutsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|c:\\users\\hp\\source\\repos\\sqaprojectbdd\\pages\\orderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|solutionrelative:pages\\orderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|c:\\users\\hp\\source\\repos\\sqaprojectbdd\\features\\invalidcheckout.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|solutionrelative:features\\invalidcheckout.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|c:\\users\\hp\\source\\repos\\sqaprojectbdd\\testdata\\testdata.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11EA6062-CF56-4FB5-B73A-9A11B0D6DC3E}|SqaProjectBDD.csproj|solutionrelative:testdata\\testdata.json||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderPage.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\Pages\\OrderPage.cs",
-              "RelativeDocumentMoniker": "Pages\\OrderPage.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\Pages\\OrderPage.cs",
-              "RelativeToolTip": "Pages\\OrderPage.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:16:12.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InvalidCheckoutSteps.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\StepDefinitions\\InvalidCheckoutSteps.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\InvalidCheckoutSteps.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\StepDefinitions\\InvalidCheckoutSteps.cs",
-              "RelativeToolTip": "StepDefinitions\\InvalidCheckoutSteps.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAArwEoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:15:56.601Z",
+              "Title": "testData.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\TestData\\testData.json",
+              "RelativeDocumentMoniker": "TestData\\testData.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\TestData\\testData.json",
+              "RelativeToolTip": "TestData\\testData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T17:05:33.039Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "invalidcheckout.feature",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\Features\\invalidcheckout.feature",
-              "RelativeDocumentMoniker": "Features\\invalidcheckout.feature",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\SqaProjectBDD\\Features\\invalidcheckout.feature",
-              "RelativeToolTip": "Features\\invalidcheckout.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-06-09T20:14:53.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

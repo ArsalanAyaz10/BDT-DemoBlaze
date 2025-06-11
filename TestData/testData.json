@@ -1,0 +1,37 @@
+﻿{
+	"weburl": "https://www.demoblaze.com",
+	"signup": {
+		"endpoint": "https://api.demoblaze.com/signup",
+		"successMessage": "Sign up successful.",
+		"usernamePrefix": "testuser_",
+		"passwordPrefix": "pass_"
+	},
+	"login": {
+		"valid": {
+			"username": "nitesh01",
+			"password": "pass01",
+			"confirmationXPath": "//a[@id='nameofuser']"
+		},
+		"invalid": {
+			"username": "user",
+			"password": "user123",
+			"expectedAlert": "demoblaze.com says\nWrong password."
+		}
+	},
+	"dashboard": {
+		"welcomeSelector": "#nameofuser"
+	},
+	"purchase": {
+		"name": "John Doe",
+		"country": "USA",
+		"city": "New York",
+		"creditCard": "1234 5678 9012 3456",
+		"month": "12",
+		"year": "2025"
+	},
+	"contact": {
+		"name": "John Doe",
+		"email": "johndoe@example.com",
+		"message": "Hello, I would like to inquire about the warranty on your products. Please get back to me at your earliest convenience. Thanks!"
+	}
+}
